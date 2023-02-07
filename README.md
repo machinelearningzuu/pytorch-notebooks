@@ -6,4 +6,3 @@ In this repository I'm implementing PyTorch based Deep Neural Networks from basi
             - Dataset: https://www.kaggle.com/datasets/yvtsanlevy/moore-law
             - Type: Regression
             - Model: Artificial Neural Network
-            - Framework: PyTorch
